@@ -25,9 +25,7 @@ This project is a basic implementation of the classic Snake Game using Pygame. I
 
 ## Demo
 
-![Snake Game Demo](link-to-demo-gif-or-screenshot)
-
-[Insert a screenshot or gif of your game in action to give users a visual preview.]
+![Snake Game Demo](https://github.com/sebastiankrzysiak/My-First-Snake-Game/blob/main/snake.gif)
 
 ## Installation
 
@@ -65,8 +63,6 @@ We welcome contributions to enhance "My First Snake Game." If you'd like to cont
 3. Make your changes and commit them: `git commit -m 'Add some feature'`.
 4. Push to the branch: `git push origin feature/my-new-feature`.
 5. Create a pull request.
-
-Please make sure to follow the [code of conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
